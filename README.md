@@ -1,1 +1,1 @@
-<!-- my project description -->
+<!-- project description -->
